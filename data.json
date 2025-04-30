@@ -1,0 +1,123 @@
+[
+    
+    {
+        "img_id" : 101,
+        "img_category" : "watches",
+        "img_url" : "https://pixabay.com/photos/clock-wrist-watch-time-display-1625703/",
+        "img_description" : "Classic elegance with a modern twist, perfect for everyday sophistication."
+    } ,
+    {
+        "img_id" : 102,
+        "img_category" : "watches",
+        "img_url" : "https://pixabay.com/photos/timepiece-watch-wristwatch-fashion-7103973/",
+        "img_description" : "Sleek stainless steel design built for style and durability."
+    } ,
+    {
+        "img_id" : 103,
+        "img_category" : "watches",
+        "img_url" : "https://pixabay.com/photos/wristwatch-watch-accessory-407096/",
+        "img_description" : "Timeless leather strap watch with minimalist dial and vintage charm."
+    } ,
+    {
+        "img_id" : 104,
+        "img_category" : "watches",
+        "img_url" : "https://pixabay.com/photos/wristwatch-fashion-time-black-watch-6378360/",
+        "img_description" : "Bold chronograph with multiple sub-dials for precision and performance."
+    } ,
+    {
+        "img_id" : 105,
+        "img_category" : "watches",
+        "img_url" : "https://pixabay.com/photos/analog-watch-time-watch-wrist-watch-1869928/",
+        "img_description" : "Slim and lightweight, ideal for a refined, understated look."
+    } ,
+    {
+        "img_id" : 106,
+        "img_category" : "watches",
+        "img_url" : "https://www.pexels.com/photo/silver-and-black-wristwatch-12915491/",
+        "img_description" : "Automatic movement with skeleton dial revealing inner mechanics."
+    } ,
+    {
+        "img_id" : 107,
+        "img_category" : "watches",
+        "img_url" : "https://www.pexels.com/photo/casio-g-shock-black-leather-strap-round-bezel-chronograph-watch-158741/",
+        "img_description" : "Water-resistant sports watch, ready for every adventure."
+    } ,
+    {
+        "img_id" : 108,
+        "img_category" : "watches",
+        "img_url" : "https://pixabay.com/photos/clock-wrist-watch-chronograph-time-7419071/",
+        "img_description" : "Gold-tone case paired with deep blue dial for luxury appeal."
+    } ,
+    {
+        "img_id" : 109,
+        "img_category" : "watches",
+        "img_url" : "https://pixabay.com/photos/wrist-watch-clock-necktie-2159351/",
+        "img_description" : "Elegant mesh band complements any formal or casual outfit."
+    } ,
+    {
+        "img_id" : 110,
+        "img_category" : "watches",
+        "img_url" : "https://www.pexels.com/photo/rugged-outdoor-sports-watch-on-rock-surface-29566303/",
+        "img_description" : "Military-inspired design with rugged features and luminous hands."
+    } ,
+    {
+        "img_id" : 111,
+        "img_category" : "watches",
+        "img_url" : "https://www.pexels.com/photo/black-and-silver-casio-wristwatch-11106320/",
+        "img_description" : "Eco-friendly solar-powered watch, reliable and sustainable."
+    } ,    {
+        "img_id" : 112,
+        "img_category" : "watches",
+        "img_url" : "https://unsplash.com/photos/a-watch-sitting-on-top-of-a-green-cloth-_YgW72yKx44",
+        "img_description" : "Rose gold finish adds a touch of glamour and elegance."
+    } ,
+    {
+        "img_id" : 113,
+        "img_category" : "watches",
+        "img_url" : "https://unsplash.com/photos/black-and-silver-round-analog-watch-DOtaCoXsV9Y",
+        "img_description" : "Dual-time zone feature, perfect for frequent travelers."
+    } ,
+    {
+        "img_id" : 114,
+        "img_category" : "watches",
+        "img_url" : "https://unsplash.com/photos/a-watch-sitting-on-top-of-a-brown-case-X-cRJrqFzHA",
+        "img_description" : "Vintage-inspired face with modern quartz accuracy."
+    } ,
+    {
+        "img_id" : 115,
+        "img_category" : "watches",
+        "img_url" : "https://unsplash.com/photos/gold-link-bracelet-black-and-gold-square-watch-FoMMuiXO4FE",
+        "img_description" : "Smartwatch features in a traditional analog style."
+    } ,
+    {
+        "img_id" : 116,
+        "img_category" : "watches",
+        "img_url" : "https://unsplash.com/photos/a-watch-sitting-on-top-of-a-wooden-table-ULKTKgXvRBU",
+        "img_description" : "Diamond-accented dial for subtle luxury and sparkle."
+    } ,
+    {
+        "img_id" : 117,
+        "img_category" : "watches",
+        "img_url" : "https://unsplash.com/photos/a-watch-on-a-table-JRYLqdwM7KA",
+        "img_description" : "Rubber strap and shock-resistant build for active lifestyles."
+    } ,
+    {
+        "img_id" : 118,
+        "img_category" : "watches",
+        "img_url" : "https://unsplash.com/photos/round-gray-analog-watch-with-brown-band-SX9IouL_qOg",
+        "img_description" : "Minimalist design with clean lines and neutral tones."
+    } ,
+    {
+        "img_id" : 119,
+        "img_category" : "watches",
+        "img_url" : "https://unsplash.com/photos/a-watch-that-is-glowing-green-in-the-dark-UWAFaUXvoco",
+        "img_description" : "Tachymeter bezel for sport-driven performance tracking."
+    } ,
+    {
+        "img_id" : 120,
+        "img_category" : "watches",
+        "img_url" : "https://unsplash.com/photos/a-close-up-of-a-wrist-watch-on-a-table-CzKwrY7asHM",
+        "img_description" : "Elegant mother-of-pearl face and delicate bracelet design."
+    } 
+
+]
